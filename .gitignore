@@ -1,0 +1,15 @@
+# removing .terraform files
+
+.terraform/
+/storage/.terraform
+/networking/.terraform
+/compute/.terraform
+
+variables files
+
+variables.tf
+/storage/variable.tf
+/networking/variable.tf
+/compute/varaible.tf
+
+
